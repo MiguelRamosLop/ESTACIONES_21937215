@@ -69,13 +69,6 @@ void crearLista(nodo *&lista){
     }
 }
 
-
-
-
-
-
-
-
 //Función para comparar las gasolineras y sacar las 5 más baratas
 void gasolinera(nodo *list, string provincia, string municipio, string localidad, int tipo);
 void gasolinera(nodo *list, string provincia, string municipio, string localidad, int tipo){
